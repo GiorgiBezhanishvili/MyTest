@@ -1,0 +1,18 @@
+Georbid _ IDENTITY                     GEO     
+CARD                                           
+ვ მ ე ოქა ლ ლა ი ქე კერადოგივ " გოგა           
+" საქართ 072                           სტუდენტი
+USISO / FIRST NAME                     STUDENT 
+გიორგი                                         
+
+GIORGI
+
+გვარი / LAST NAME ბეჟანიშვილი
+
+BEZHANISHVILI
+
+amo . / CIT სქესი / SEX
+
+306590 No / PERSONAL No
+
+GEO aa / M 54001055099 დაბადების თარიღი მოქმედების ვადა DATE OF BIRTH DATE OF EXPIRY _ ფლ 8 : 13 : 06.12.1997 20.05.2029 ბარათის No7CARD No ხელმოწერა 18IE43133 SIGNATURE
